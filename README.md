@@ -1,2 +1,2 @@
 # Symbol_OS_Demo
-OS demo
+x86 OS demo
